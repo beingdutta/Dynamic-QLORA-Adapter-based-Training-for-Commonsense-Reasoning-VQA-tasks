@@ -17,9 +17,8 @@ Large vision–language models excel at VQA but require enormous compute and mem
 
 ## 🏗️ Architecture  
 
-<div align="center">
-  <img src="docs/architecture.png" width="700"/>
-</div>  
+![Router](https://github.com/user-attachments/assets/2912e380-ffcb-4f63-80d2-e509a596b709)
+
 
 1. **Input**: Image + Question (classified into reasoning type).  
 2. **Embedding + Encoder**: SBERT + Transformer encoder extracts textual representations.  
